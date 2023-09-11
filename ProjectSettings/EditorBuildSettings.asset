@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/NewScenes/Face Glasses Scene.unity
-    guid: 45e988008ee68408690ad3994fcb2b38
+    path: Assets/NewScenes/Face Glasses Scene 1.unity
+    guid: e788577ac0e7a4fe5a77293988240fbc
   m_configObjects:
     Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: c52d3bb36b4c86f47af54ab9c7a02589,
       type: 2}
